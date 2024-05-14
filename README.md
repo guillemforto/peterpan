@@ -6,9 +6,8 @@ We chose to work with the book “Peter Pan”, by J. M. Barrie. We decided to t
 
 ## Running the code
 
-pip install keras
+`pip install keras`
 
-
-This tutorial assumes a Python 2 or Python 3 development environment with SciPy, NumPy, and Pandas installed.
+This tutorial assumes a Python 2 or Python 3 development environment with SciPy, NumPy, and Pandas are installed.
 
 The tutorial also assumes scikit-learn and Keras v2.0+ are installed with either the Theano or TensorFlow backend.
